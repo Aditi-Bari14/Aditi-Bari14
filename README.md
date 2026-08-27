@@ -96,7 +96,7 @@ A recommendation system that suggests movies based on user preferences and simil
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/aditi-bari1402//" target="_blank">
+  <a href="https://https://www.linkedin.com/in/aditi-bari1402/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:aditi.bari2004@gmail.com">
