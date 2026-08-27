@@ -13,7 +13,7 @@ I enjoy building intelligent, data-driven applications using Machine Learning, D
 - 🌱 Currently exploring **Generative AI, RAG & Multi-Agent Systems**
 - 🧠 Experienced with Machine Learning, Deep Learning, NLP and Explainable AI
 - 💡 I enjoy turning real-world problems into practical technology solutions
-- 📫 Reach me at: **YOUR_EMAIL@gmail.com**
+- 📫 Reach me at: aditi.bari2004@gmail.com
 
 ---
 
@@ -104,10 +104,10 @@ A recommendation system that suggests movies based on user preferences and simil
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/aditi-bari1402//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:aditi.bari2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
